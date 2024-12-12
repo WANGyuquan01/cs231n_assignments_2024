@@ -7,8 +7,8 @@ A record of my solutions. <br>
 
 Assignment 1
 --------
-Q1: k-Nearest Neighbor classifier <br>
-Q2: Training a Support Vector Machine <br>
+☑ [Q1](https://github.com/WANGyuquan01/cs231n_assignments_2024/blob/main/assignment1/Q1_knn.ipynb): k-Nearest Neighbor classifier <br>
+☑ [Q2](https://github.com/WANGyuquan01/cs231n_assignments_2024/blob/main/assignment1/Q2_svm.ipynb): Training a Support Vector Machine <br>
 Q3: Implement a Softmax classifier <br>
 Q4: Two-Layer Neural Network <br>
 Q5: Higher Level Representations: Image Features <br>
