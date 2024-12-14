@@ -11,7 +11,7 @@ Assignment 1
 ☑ [Q2](https://github.com/WANGyuquan01/cs231n_assignments_2024/blob/main/assignment1/Q2_svm.ipynb): Training a Support Vector Machine <br>
 ☑ [Q3](https://github.com/WANGyuquan01/cs231n_assignments_2024/blob/main/assignment1/Q3_softmax.ipynb): Implement a Softmax classifier <br>
 ☑ [Q4](https://github.com/WANGyuquan01/cs231n_assignments_2024/blob/main/assignment1/Q4_two_layer_net.ipynb): Two-Layer Neural Network <br>
-Q5: Higher Level Representations: Image Features <br>
+☑ [Q5](https://github.com/WANGyuquan01/cs231n_assignments_2024/blob/main/assignment1/Q5_features.ipynb): Higher Level Representations: Image Features <br>
 
 Assignment 2
 --------
