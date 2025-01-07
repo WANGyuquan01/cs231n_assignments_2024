@@ -25,7 +25,6 @@ Assignment 3
 --------
 Q1: Image Captioning with Vanilla RNNs <br>
 Q2: Image Captioning with Transformers <br>
-Q3: Network Visualization: Saliency Maps, Class Visualization, and Fooling Images <br>
-Q4: Generative Adversarial Networks <br>
-Q5: Self-Supervised Learning for Image Classification <br>
-Q6: Image Captioning with LSTMs <br>
+Q3: Generative Adversarial Networks <br>
+Q4: Self-Supervised Learning for Image Classification <br>
+Extra Credit: Image Captioning with LSTMs <br>
