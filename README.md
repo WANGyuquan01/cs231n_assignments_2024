@@ -15,12 +15,11 @@ Assignment 1
 
 Assignment 2
 --------
-Q1: Fully-connected Neural Network <br>
-Q2: Batch Normalization <br>
-Q3: Dropout <br>
-Q4: Convolutional Networks <br>
-Q5 option 1: PyTorch on CIFAR-10 <br>
-Q5 option 2: TensorFlow on CIFAR-10 <br>
+☑ [Q1](https://github.com/WANGyuquan01/cs231n_assignments_2024/blob/main/assignment2/Q1_FullyConnectedNets.ipynb): Fully-connected Neural Network <br>
+☑ [Q2](https://github.com/WANGyuquan01/cs231n_assignments_2024/blob/main/assignment2/Q2_BatchNormalization.ipynb): Batch Normalization <br>
+☑ [Q3](https://github.com/WANGyuquan01/cs231n_assignments_2024/blob/main/assignment2/Q3_Dropout.ipynb): Dropout <br>
+☑ [Q4](https://github.com/WANGyuquan01/cs231n_assignments_2024/blob/main/assignment2/Q4_ConvolutionalNetworks.ipynb): Convolutional Networks <br>
+[Q5](https://github.com/WANGyuquan01/cs231n_assignments_2024/blob/main/assignment2/Q5_PyTorch.ipynb): PyTorch on CIFAR-10 <br>
 
 Assignment 3
 --------
