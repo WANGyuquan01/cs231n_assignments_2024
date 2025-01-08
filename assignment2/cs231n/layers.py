@@ -489,10 +489,6 @@ def dropout_forward(x, dropout_param):
         #######################################################################
         # *****START OF YOUR CODE (DO NOT DELETE/MODIFY THIS LINE)*****
 
-        if p == 1:
-          return np.zeros(x.shape)
-        if p == 0:
-          return x
         mask = (np.random.randn(*x.shape) < p) / p
         out = mask * x
 
